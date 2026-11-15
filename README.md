@@ -10,7 +10,7 @@ assets/js/main.js     Menu, events/team/resources rendering
 images/               logo.png + favicon / web versions
 data/site.json        Form links, email, LinkedIn, WhatsApp
 data/events.json      Events (upcoming/past split by date automatically)
-data/team.json        Founding team cards
+data/team.json        Executive team cards
 data/resources.json   Resource links
 .nojekyll             Serve files as-is
 ```
