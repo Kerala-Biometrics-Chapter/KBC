@@ -16,9 +16,9 @@ data/resources.json   Resource links
 ```
 
 ## Publish
-1. Upload everything to the `main` branch root of `Kerala-Biometrics-Chapter/KBC`.
+1. Upload everything to the `main` branch root of `Kerala-Biometrics-Chapter/kerala-biometrics-chapter.github.io`.
 2. Settings → Pages → Source: *Deploy from a branch* → `main` / `(root)` → Save.
-3. Site URL: `https://kerala-biometrics-chapter.github.io/KBC/`
+3. Site URL: `https://kerala-biometrics-chapter.github.io/`
 
 ## Update content (no HTML needed)
 - **Add an event:** add an entry to `data/events.json` (`date` as `YYYY-MM-DD`).
