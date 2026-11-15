@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-12-13",
+    "title": "Careers in Clinical Biometrics — an introduction",
+    "type": "Webinar",
+    "mode": "Online",
+    "speaker": "Speaker TBA",
+    "description": "What biostatisticians and statistical programmers do, how trials work, and how to get your first role.",
+    "link": ""
+  },
+  {
+    "date": "2027-01-17",
+    "title": "Hands-on: SDTM to ADaM in R with admiral",
+    "type": "Workshop",
+    "mode": "Online",
+    "speaker": "Speaker TBA",
+    "description": "Build an ADSL dataset step by step using pharmaverse packages.",
+    "link": ""
+  },
+  {
+    "date": "2026-11-01",
+    "title": "Founding members' introductory meet",
+    "type": "Meetup",
+    "mode": "Online",
+    "speaker": "",
+    "description": "Kick-off discussion on the Chapter's goals, structure and first-year plan.",
+    "link": ""
+  }
+]

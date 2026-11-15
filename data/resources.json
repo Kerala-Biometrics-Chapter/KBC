@@ -1,0 +1,10 @@
+[
+  { "category": "Standards", "title": "CDISC", "url": "https://www.cdisc.org/standards", "description": "Official SDTM, ADaM and Define-XML standards used in regulatory submissions." },
+  { "category": "Open source", "title": "pharmaverse", "url": "https://pharmaverse.org", "description": "Curated R packages for clinical reporting — admiral, rtables, tern and more." },
+  { "category": "Community", "title": "PHUSE", "url": "https://phuse.global", "description": "Global community for data science and statistical programming in healthcare." },
+  { "category": "R", "title": "R for Data Science", "url": "https://r4ds.hadley.nz", "description": "Free online book — the best place to start learning R." },
+  { "category": "SAS", "title": "SAS OnDemand for Academics", "url": "https://www.sas.com/en_us/software/on-demand-for-academics.html", "description": "Free cloud access to SAS for students and self-learners." },
+  { "category": "Regulatory", "title": "FDA Study Data Standards", "url": "https://www.fda.gov/industry/fda-data-standards-advisory-board/study-data-standards-resources", "description": "FDA guidance and catalogs for electronic study data submissions." },
+  { "category": "Guidelines", "title": "ICH E9 Statistical Principles", "url": "https://database.ich.org/sites/default/files/E9_Guideline.pdf", "description": "Core guideline on statistical principles for clinical trials." },
+  { "category": "Python", "title": "Python for Data Analysis", "url": "https://wesmckinney.com/book/", "description": "Free online book by the creator of pandas." }
+]

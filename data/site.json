@@ -1,1 +1,10 @@
-
+{
+  "links": {
+    "volunteerForm": "https://forms.cloud.microsoft/r/ZGRRU26Wpx",
+    "memberForm": "https://forms.office.com/REPLACE-WITH-MEMBER-FORM-LINK",
+    "partnerEmail": "mailto:keralabiometrics@example.org?subject=Partnership%20enquiry",
+    "email": "mailto:keralabiometrics@example.org",
+    "linkedin": "https://www.linkedin.com/company/keralabiometricchapter/",
+    "whatsapp": "https://chat.whatsapp.com/REPLACE"
+  }
+}

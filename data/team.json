@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Name",
+    "role": "President",
+    "designation": "Designation, Organization",
+    "linkedin": "",
+    "photo": ""
+  },
+  {
+    "name": "Name",
+    "role": "Vice President",
+    "designation": "Designation, Organization",
+    "linkedin": "",
+    "photo": ""
+  },
+  {
+    "name": "Name",
+    "role": "General Secretary",
+    "designation": "Designation, Organization",
+    "linkedin": "",
+    "photo": ""
+  },
+  {
+    "name": "Name",
+    "role": "Treasurer",
+    "designation": "Designation, Organization",
+    "linkedin": "",
+    "photo": ""
+  },
+  {
+    "name": "Name",
+    "role": "Program Lead",
+    "designation": "Designation, Organization",
+    "linkedin": "",
+    "photo": ""
+  },
+  {
+    "name": "Name",
+    "role": "Outreach Lead",
+    "designation": "Designation, Organization",
+    "linkedin": "",
+    "photo": ""
+  }
+]
